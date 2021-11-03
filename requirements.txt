@@ -1,0 +1,6 @@
+harvesttext
+autocorrect
+pinyin
+langid
+
+休闲鞋
