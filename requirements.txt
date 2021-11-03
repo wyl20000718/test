@@ -3,6 +3,6 @@ autocorrect
 pinyin
 langid
 
-运动鞋
+运动鞋 50$
 
 哇哈哈
